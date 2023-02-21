@@ -22,8 +22,8 @@ main{
  
   
 .corte{
-  max-width: 1920px ;
-  min-width: 310px;
+  max-width: 100% ;
+  min-width: 200px;
 
 }
   .menuzinho{
