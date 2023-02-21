@@ -686,7 +686,12 @@ border-color: #a85eb4;
     opacity: 1;
     transform: translate3d(0, 0 ,0);
     }
+	
+ 	@media (max-width: 1981px){
 
+      .logo{
+        margin-left: 350px;
+      }
     
     
     
